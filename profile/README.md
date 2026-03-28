@@ -4,9 +4,9 @@
 
 Nous sommes une **organisation libertaire** qui promeut les valeurs de **liberté**, **égalité** et **solidarité** dans le monde numérique. Notre mission est de démocratiser la technologie et de soutenir les développeurs indépendants.
 
-## 🎯 Notre Mission
+##  Notre Mission
 
-### 🔓 Promouvoir le Libre
+###  Promouvoir le Libre
 - **Logiciels libres** : Soutien aux projets open source
 - **Connaissances partagées** : Démocratisation du savoir technique
 - **Accès égalitaire** : Technologie accessible à tous
@@ -21,7 +21,7 @@ Nous sommes une **organisation libertaire** qui promeut les valeurs de **libert�
 - **Outils accessibles** : Solutions simples et efficaces
 - **Communauté inclusive** : Espace bienveillant pour tous
 
-## 🚀 Nos Actions
+##  Nos Actions
 
 ### 📚 Projets Éducatifs
 - Tutoriels et guides techniques
