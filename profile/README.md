@@ -1,4 +1,4 @@
-# International CNAITTT
+Liberinfo
 
 ## 🏴 Qui sommes-nous ?
 
